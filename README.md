@@ -55,6 +55,8 @@ npm run verify
 
 详细素材信息见[public/ASSETS.md](public/ASSETS.md)、[LICENSE](LICENSE)与[public/OFL.txt](public/OFL.txt)。仓库不包含签名视频地址、Motionface绑定凭证或任何登录令牌。
 
+原片关键帧与改编对应关系见[参考片核对记录](docs/reference-analysis.md)。
+
 ## 验证
 
 类型检查与三项时间轴测试、离线构建、1080p完整渲染通过。已检查900帧完整解码、逐秒画面、中文排版、音轨及实际完整播放；没有黑帧或音频削波。
